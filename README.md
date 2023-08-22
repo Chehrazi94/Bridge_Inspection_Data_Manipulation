@@ -2,7 +2,7 @@
 
 *Note: This is the first stage of an ongoing project at the University of Waterloo.*
 
-### <font color='blue'>*Author: Ali Chehrazi*</font>
+### *Author: Ali Chehrazi*
 
 Summary: Bridges will deteriorate over time due to corrosion, cracks, etc. Global warming can affect the rate of deterioration of bridge structures. The aim of the main project is to evaluate the effect of global warming on the deterioration of bridge structures.
 
