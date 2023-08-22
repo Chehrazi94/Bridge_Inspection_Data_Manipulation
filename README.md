@@ -1,7 +1,4 @@
 # Bridge_Inspection_Data_Manipulation
 
-<img src=\"Image\Manhattan_and_Brooklyn_bridges.jpg">
+<img src="Image\<img src="Image\Titanic-2.jpg">.jpg">
 
-"\n",
-        "<img src=\"Image/Manhattan_and_Brooklyn_bridges.jpg\">\n",
-"\n",
